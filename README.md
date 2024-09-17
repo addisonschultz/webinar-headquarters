@@ -3,11 +3,13 @@ cover: .gitbook/assets/hero.png
 coverY: 0
 ---
 
-# Welcome to HeadQuarters
+# Welcome to HeadQuarters!
 
 _HeadQuarters is an AI-powered customer support platform designed for e-commerce businesses. It lets online retailers automate and streamline their customer interactions using intelligent chatbots, ticket management, and data-driven insights._
 
-This documentation covers how to use HeadQuarters APIs in your own e-commerce platform, as well as how to build integrations and plugins to improve your HeadQuarters workflows.&#x20;
+This documentation covers how to use HeadQuarters APIs in your own e-commerce platform, as well as how to build integrations and plugins to improve your HeadQuarters workflows.
+
+Continue reading to learn more about our product.
 
 ### Fundamentals: Learn the basics
 

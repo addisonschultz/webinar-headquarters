@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to HeadQuarters](README.md)
+* [Welcome to HeadQuarters!](README.md)
 
 ## Guides
 
